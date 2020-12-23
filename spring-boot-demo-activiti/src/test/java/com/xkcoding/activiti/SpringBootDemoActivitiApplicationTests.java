@@ -27,5 +27,7 @@ public class SpringBootDemoActivitiApplicationTests {
         processDefinitionPage.getContent().forEach(System.out::println);
     }
 
+    private static final String CODE = "dev";
+
 }
 
